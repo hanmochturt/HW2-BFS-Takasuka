@@ -21,7 +21,13 @@ class Graph:
         * If there is an end node input and a path does not exist, return None
 
         """
-        return
+        if end:
+            # if path exists or does not exist
+
+        else:
+            #return nx.coloring.greedy_color(self.graph, strategy='connected_sequential_bfs')
+            return nx.coloring.strategy_connected_sequential(self.graph,colors=None,
+                                                             traversal='bfs')
 
 
 
