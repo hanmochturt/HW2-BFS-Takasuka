@@ -1,3 +1,7 @@
+! [BuildStatus] (https://github.com/hanmochturt/HW2-BFS-Takasuks/workflows/HW2-BFS/badge.svg?event=push)
+
+Breadth-first search (BFS) is a method of searching a graph which involves going down every path from a start node simultaneously until the path has ended at a node which has no neighbors that haven't already been reached.
+
 # Assignment 2
 Breadth-first search
 
